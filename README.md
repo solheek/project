@@ -9,3 +9,6 @@
 - 따릉이 VOC 수집 및 VOC 응대
   1. 일별 따릉이 이용량, VOC 인입량 측정 그래프를 대시보드에 출력합니다.
   2. 인입된 VOC를 응대합니다(Email)
+
+### 디자인
+- [Figma](https://www.figma.com/file/WsMI4JUDjHDUmo5A0p3rig/DDAREUNG2_PROJECT?node-id=0%3A1)
